@@ -10,7 +10,7 @@ header {
 }
   
 section {
-    padding: 100px 0;
+    padding: 150px 0;
 }
 
 img {
@@ -20,7 +20,7 @@ img {
     /* IE6-9 */
     -webkit-filter: grayscale(1);
     /* Google Chrome & Safari 6+ */
-    
+
     transition: all 0.3s ease;
 }
 
@@ -29,10 +29,7 @@ img:hover {
     -webkit-filter: none;
     -webkit-filter: drop-shadow(silver);
     filter: drop-shadow(5px 5px 5px silver);
-
-
     transform: scale(1.02);
-    
 }
 
 h1{

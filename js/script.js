@@ -1,5 +1,4 @@
 // Scrollspy
-AOS.init();
 
 (function($) {
     "use strict"; // Start of use strict
@@ -30,9 +29,3 @@ AOS.init();
     });
   
 })(jQuery); // End of use strict
-
-
-//Fading
-$(window).scroll(function(){
-    $(".fade").css("opacity", 1 - $(window).scrollTop() / 250);
-});
