@@ -41,6 +41,16 @@ h2{
     font-family: 'Raleway', sans-serif;
 }
 
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+ul{
+    font-family: 'Raleway', sans-serif;
+}
+
 hr{
     border-color: white;
 }
